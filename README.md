@@ -47,7 +47,7 @@ Questa repository contiene materiale didattico organizzato per argomenti, utile 
 
 ## Contenuti
 
-### Lezioni Teoriche (26 PDF)
+### Lezioni Teoriche (26 PDF) - A.A. 2025/2026
 
 | # | Argomento |
 |---|-----------|
@@ -65,7 +65,7 @@ Questa repository contiene materiale didattico organizzato per argomenti, utile 
 | 24-25 | Architetture RISC e RISC-V |
 | 26 | Calcolatori Multicore |
 
-### Esercitazioni (8 PDF)
+### Esercitazioni (8 PDF) - A.A. 2025/2026
 
 1. Rappresentazione binaria/ottale/esadecimale
 2. Esercizi sulle Cache
@@ -77,6 +77,8 @@ Questa repository contiene materiale didattico organizzato per argomenti, utile 
 8. Altri esercizi pipeline
 
 ### Riassunti (14 capitoli)
+
+Basati sulle lezioni dell'A.A. 2025/2026.
 
 1. Architettura dei calcolatori
 2. Sistemi di Numerazione e Algebra di Boole
@@ -95,8 +97,9 @@ Questa repository contiene materiale didattico organizzato per argomenti, utile 
 
 ### Test e Domande
 
-- Domande aperte d'esame
-- Esercizi sulla rappresentazione in virgola mobile (IEEE 754)
+- **Appelli precedenti**: Non ancora inseriti, ma si punta ad aggiungerli in futuro.
+- **Domande aperte d'esame**: Raccolta di tutte le domande conosciute dai precedenti appelli, inserite in un unico documento senza duplicati e organizzate per argomento.
+- **Esercizi**: Generati tramite AI (Gemini, Claude, ChatGPT) basandosi anche, ma non solo, su quello che è possibile trovare negli esami.
 
 ## Note
 
