@@ -1,2 +1,7 @@
+# Obsidian
 .obsidian/
 *.md.backup
+
+# Claude Code
+.claude/
+CLAUDE.md
